@@ -19,7 +19,7 @@
 - 🖥️ Actualmente enfocado en el **desarrollo backend** y explorando **tecnologías emergentes**.
 - 🌎 Puedes ver algunos de mis proyectos en [GitHub](https://github.com/Afelipe410).
 - ✉️ Contactame en: **andres.giraldo@ucaldas.edu.co**.
-- 🚀 Siempre buscando crecer: *"La innovación distingue a los líderes de los seguidores."*
+- 🚀 Siempre buscando crecer: *"El único límite para nuestros logros de mañana está en nuestras dudas de hoy."*
 
 <br>
 
@@ -55,11 +55,11 @@
 
 <div align="center">
   
-⭐ **"La verdadera pasión por aprender es el motor que enciende cada gran logro."** ⭐
+⭐ **"El único límite para nuestros logros de mañana está en nuestras dudas de hoy."** ⭐
 
 </div>
 
 ---
 
 **Créditos:** Andrés Felipe Giraldo Rojas  
-**Última actualización:** 28/04/2025
+
