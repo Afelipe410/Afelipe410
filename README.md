@@ -7,10 +7,6 @@
 
 <!-- Sobre mí -->
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Sobre mí
-
-<picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
-
 - 🎓 Soy estudiante de **Ingeniería en Sistemas y Computación** en la **Universidad de Caldas**.
 - 💡 Apasionado por la **tecnología**, el **desarrollo de software** y el **aprendizaje continuo**.
 - 🖥️ Actualmente enfocado en el **desarrollo backend** y explorando **tecnologías emergentes**.
