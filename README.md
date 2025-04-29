@@ -17,7 +17,7 @@
 - 🎓 Soy estudiante de **Ingeniería en Sistemas y Computación** en la **Universidad de Caldas**.
 - 💡 Apasionado por la **tecnología**, el **desarrollo de software** y el **aprendizaje continuo**.
 - 🖥️ Actualmente enfocado en el **desarrollo backend** y explorando **tecnologías emergentes**.
-- 🌎 Puedes ver algunos de mis proyectos en [GitHub](https://https://github.com/Afelipe410).
+- 🌎 Puedes ver algunos de mis proyectos en [GitHub](https://github.com/Afelipe410).
 - ✉️ Contactame en: **andres.giraldo@ucaldas.edu.co**.
 - 🚀 Siempre buscando crecer: *"La innovación distingue a los líderes de los seguidores."*
 
