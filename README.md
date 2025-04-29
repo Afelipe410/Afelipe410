@@ -11,7 +11,7 @@
 - 💡 Apasionado por la **tecnología**, el **desarrollo de software** y el **aprendizaje continuo**.
 - 🖥️ Actualmente enfocado en el **desarrollo backend** y explorando **tecnologías emergentes**.
 - 🌎 Puedes ver algunos de mis proyectos en [GitHub](https://github.com/Afelipe410).
-- ✉️ Contactame en: **andres.giraldo@ucaldas.edu.co**.
+- ✉️ Contactame en: **andres.giraldo47424@ucaldas.edu.co**.
 - 🚀 Siempre buscando crecer: *"El único límite para nuestros logros de mañana está en nuestras dudas de hoy."*
 
 <br>
