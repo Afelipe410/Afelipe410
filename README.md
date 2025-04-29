@@ -17,7 +17,7 @@
 
 - 🎓 I am a student of **Computer Systems and Software Engineering** at the **Universidad de Caldas**.
 - 📚 I am passionate about **technology**, **software development**, and **continuous learning**.
-- 💻 Currently focusing on **backend development**, **system architecture**, and **emerging technologies**.
+- 💻 Currently focusing on **backend development**, and **emerging technologies**.
 - 🌐 You can check out some of my work on [GitHub](https://github.com/your-github-username).
 - 📬 Feel free to reach me out: andres.giraldo@ucaldas.edu.co
 - 🚀 Always learning and improving: *"Innovation distinguishes between a leader and a follower."*
